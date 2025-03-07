@@ -10,7 +10,7 @@ function MyProfile({
   const { username, email } = userData;
   return (
     <>
-      <NavBar />
+      <NavBar/>
       <div className="my-profile">
         <div className="my-profile__container">
           <div className="my-profile__header">

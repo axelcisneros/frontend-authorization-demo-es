@@ -4,7 +4,7 @@ import DuckList from "./DuckList";
 function Ducks() {
   return (
     <>
-      <NavBar />
+      <NavBar/>
       <DuckList />
     </>
   );
